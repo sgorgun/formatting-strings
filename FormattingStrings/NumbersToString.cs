@@ -1,4 +1,6 @@
-﻿namespace FormattingStrings
+﻿using System.Globalization;
+
+namespace FormattingStrings
 {
     public static class NumbersToString
     {

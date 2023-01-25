@@ -1,6 +1,8 @@
 ﻿using NUnit.Framework;
 using static FormattingStrings.IntegerToString;
 
+[assembly: CLSCompliant(false)]
+
 namespace FormattingStrings.Tests
 {
     [TestFixture]

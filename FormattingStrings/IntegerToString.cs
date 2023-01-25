@@ -1,4 +1,8 @@
-﻿namespace FormattingStrings
+﻿using System.Globalization;
+
+[assembly: CLSCompliant(true)]
+
+namespace FormattingStrings
 {
     public static class IntegerToString
     {
